@@ -1,9 +1,10 @@
 # simple_rsa_cli
 A simple implementation of the RSA algorithm
 You could use the script in the following way:
-
 ```
 python rsa_encrypter_decrypter.py
+```
+```
 Enter a prime number (17, 19, 23, etc): 17
 Enter another prime number (Not one you entered above): 23
 Generating your public/private keypairs now . . .
