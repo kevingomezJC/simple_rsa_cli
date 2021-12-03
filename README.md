@@ -2,7 +2,7 @@
 A simple implementation of the RSA algorithm
 You could use the script in the following way:
 
-'''
+`
 Enter a prime number (17, 19, 23, etc): 17
 Enter another prime number (Not one you entered above): 23
 Generating your public/private keypairs now . . .
@@ -13,4 +13,5 @@ Your encrypted message is:
 Decrypting message with public key  (265, 391)  . . .
 Your message is:
 kevin
-'''
+`
+
