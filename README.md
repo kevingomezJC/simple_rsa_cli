@@ -3,7 +3,7 @@ A simple implementation of the RSA algorithm
 You could use the script in the following way:
 
 `
-Enter a prime number (17, 19, 23, etc): 17\
+Enter a prime number (17, 19, 23, etc): 17 <br />
 Enter another prime number (Not one you entered above): 23 \
 Generating your public/private keypairs now . . . \
 Your public key is  (265, 391)  and your private key is  (441, 391) \
